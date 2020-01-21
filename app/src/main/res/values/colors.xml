@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#a996cf</color>
+    <color name="colorPrimaryDark">#7a6c96</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="orange">#D47F7A</color>
+    <color name="blue">#4F80CD</color>
+
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="nav_title">#B2CEED</color>
+
+    <color name="nav_bg">#3B70C3</color>
+    <color name="white_opacity">#38ffffff</color>
+    <color name="bg_color">#faf9f1</color>
+
+    <color name="blue_dark">#073b8e</color>
+</resources>

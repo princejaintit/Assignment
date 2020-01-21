@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Assignment</string>
+    <string name="ok">OK</string>
+    <string name="errorString">Error</string>
+</resources>
